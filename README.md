@@ -38,6 +38,6 @@ You can make insert, update, search etc. prouct, supplier and worker here.
 
 ## Admin (Last Button)
 
-![admin](https://raw.githubusercontent.com/ceyhunbcelik/Stock-Tracking/main/image/admin.PNG)
+![admin](https://raw.githubusercontent.com/ceyhun-celik/ceyhun-celik-stock-tracking-entity-framework-db-first/main/image/admin.PNG)
 
 Admin can insert, update, search etc. operation in this panel. Automation shut down if admin delete himself :)
